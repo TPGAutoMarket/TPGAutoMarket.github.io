@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TP&G Auto Market</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="logo.png" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="TP&G Auto Market Logo" class="logo" />
+    <h1>TP&G Auto Market</h1>
+  </header>
+
+  <section class="services">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Asesoría en la compra de autos usados a particulares o en subastas</li>
+      <li>Reportes de Carfax</li>
+      <li>Inspeccionamos el auto que te gusta presencial o en línea</li>
+      <li>Asesoramos con los trámites de título y mucho más</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contáctanos</h2>
+    <p>WhatsApp: <a href="https://wa.me/13216627444" target="_blank">+1 321 662 7444</a></p>
+  </section>
+
+  <footer>
+    <p>Síguenos en redes sociales:</p>
+    <a href="https://www.facebook.com/TPGAutoMarket" target="_blank">Facebook</a> |
+    <a href="https://www.instagram.com/tpg_automarket" target="_blank">Instagram</a> |
+    <a href="https://wa.me/13216627444" target="_blank">WhatsApp</a>
+  </footer>
+</body>
+</html>
